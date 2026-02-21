@@ -1,42 +1,57 @@
-## Hi there 👋
-Hi there, I'm Fernando Rodríguez! 👋
-Computer Engineering Student (8th Semester) | Cybersecurity Aspirant | Tech Leader
+# Hi there, I'm Fernando Rodríguez 👋
 
-I am a senior Computer Engineering student with a deep passion for solving complex problems and a fast-learning mindset. My journey is currently focused on Cybersecurity, where I am strengthening my skills in Linux, Networking, and Database Administration.
+### 🚀 Computer Engineering Student (8th Semester) | Cybersecurity Aspirant | Tech Leader
 
-🚀 Key Experience: Project Manage Pro
-I recently led a team of 6 developers to build Project Manage Pro, a Kanban-based task management system.
+💬I am a senior Computer Engineering student driven by a deep passion for technology and a fast-learning mindset. Currently focusing on **Cybersecurity**, **Database Administration**, **Linux**, and **Network Administration**.
 
-Role: Team Lead & Developer.
+---
 
-Methodology: Agile/Scrum.
+### 🛠 Technical Stack
 
-Core Features: Task tracking, deadline management, and workflow optimization (To Do / In Progress / Done).
+#### 💻 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-🛠 Technical Toolbox
-Languages: Python, JavaScript, C.
+#### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-Web & Databases: HTML5, CSS3, MySQL, PostgreSQL, SQLite.
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-Data & Tools: Power BI, Git, GitHub.
+#### 📊 Data Analysis & Tools
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Interests: Pentesting, CRM systems, Software Deployment, and Hardware Troubleshooting.
+---
 
-🎯 Professional Goals
-I am currently looking for Internship opportunities or my first Junior role where I can contribute to meaningful projects while finishing my degree. I am a logic-puzzle enthusiast and a proactive problem solver.
+### 🌟 Featured Project: Project Manage Pro
+**Team Lead | Agile/Scrum | Kanban System**
+
+Led a team of 6 to develop a comprehensive task management software. 
+- 📋 **Logic:** Kanban methodology (To Do, In Progress, Done).
+- 👥 **Role:** Managed sprints, coordinated tasks, and developed core features.
+- 🛠 **Focus:** Workflow optimization and deadline tracking.
+
+---
+
+### 🎯 Current Goals & Interests
+- 🛡️ Deepening my knowledge in **Pentesting** and **Network Security**.
+- 🐧 Mastering **Linux Administration**.
+- 💼 Seeking an **Internship** or **Junior Developer** position to apply my skills in real-world environments.
+- 🌱Learn advanced English
+
 
 💬 Let's connect! I'm always open to discussing tech, cybersecurity, or collaboration opportunities.
-<!--
-**FernanRodri/FernanRodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-rodr%C3%ADguez-8b9502328)
 
-Here are some ideas to get you started:
+---
+*“I enjoy solving complex logic puzzles and troubleshooting hardware – if it’s broken, I’ll find a way to fix it.”*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
